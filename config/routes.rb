@@ -25,7 +25,7 @@ Rails.application.routes.draw do
   #       get 'sold'
   #     end
   #   end
-  post 'tax'=>'tax#create'
+  post 'vertex'=>'vertex#create'
   # Example resource route with sub-resources:
   #   resources :products do
   #     resources :comments, :sales
